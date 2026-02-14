@@ -1,0 +1,23 @@
+# Core Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-dotenv==1.0.0
+
+# LangChain and Document Processing
+langchain==0.1.5
+langchain-community==0.0.17
+
+# Embeddings and Vector Store
+sentence-transformers==2.3.1
+chromadb==0.4.22
+
+# Document Loaders
+pypdf==4.0.1
+python-docx==1.1.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Additional Utilities
+numpy==1.26.3

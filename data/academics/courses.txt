@@ -1,0 +1,21 @@
+Academic Programs
+
+Undergraduate Programs:
+- B.Tech (CSE, ECE, Mechanical, Civil, AI & DS, etc.)
+- BBA
+- BCA
+- B.Sc
+- B.Com
+
+Postgraduate Programs:
+- M.Tech
+- MBA
+- MCA
+- M.Sc
+
+Doctoral Programs:
+- Ph.D in Engineering, Management, Sciences.
+
+Grading System:
+- 10-point CGPA system.
+- SGPA calculated per semester.

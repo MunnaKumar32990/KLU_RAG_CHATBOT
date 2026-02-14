@@ -1,0 +1,144 @@
+KL University
+Department of Computer Science & Engineering
+Structured Faculty Directory (For RAG Usage)
+
+Format:
+Name | Designation | Qualification | Department
+
+
+DR. SRIKANTH VEMURU | Professor | Ph.D | CSE
+DR. RAJA SEKHARA PRASAD KOTTAPALLI | Professor | Ph.D | CSE
+DR. VENKATRAM NIDUMOLU | Professor | Ph.D | CSE
+DR. V. SHANMUKHA KUMAR JAGARLAPUDI | Professor | Ph.D | CSE
+DR. PRASANTH YALLA | Professor | Ph.D | CSE
+DR. SK. RAZIA | Professor | Ph.D | CSE
+DR. PAVAN KUMAR TUMMALA | Professor | Ph.D | CSE
+DR. HARITHA D | Professor | Ph.D | CSE
+DR. V. P. KRISHNA ANNE | Professor | Ph.D | CSE
+DR. SEKHAR BABU BODDU | Professor | Ph.D | CSE
+DR. B. V. APPA RAO | Professor | Ph.D | CSE
+DR. P. LAKSHMI PRASANNA | Professor | Ph.D | CSE
+DR. K. RAVINDRANATH | Professor | Ph.D | CSE
+DR. N. V. S. PAVAN KUMAR | Professor | Ph.D | CSE
+DR. KOMARAGIRI RAGHAVA RAO | Professor | Ph.D | CSE
+DR. MIRIYALA SRIDHAR | Professor | Ph.D | CSE
+DR. GHALI VENKATA SUBBA RAO | Professor | Ph.D | CSE
+DR. BURRA VIJAYA BABU | Professor | Ph.D | CSE
+DR. GAJULA SIVA NAGESWARA RAO | Professor | Ph.D | CSE
+DR. VENKATA RAJU KALLIPALLI | Professor | Ph.D | CSE
+DR. KOPPARTI V V SATYANARAYANA | Professor | Ph.D | CSE
+DR. PABBISETTI SATYA GOURI ARUNASRI | Professor | Ph.D | CSE
+DR. GURRAMPATI VENKATA RAMANA REDDY | Professor | Ph.D | CSE
+DR. KOTHAMASU KIRAN KUMAR | Professor | Ph.D | CSE
+DR. NULAKA SRINIVASU | Professor | Ph.D | CSE
+DR. P.V.R.D. PRASADA RAO | Professor | Ph.D | CSE
+DR. GERA PRADEEPINI | Professor | Ph.D | CSE
+DR. GANDHARBA SWAIN | Professor | Ph.D | CSE
+DR. PATHURI SIVA KUMAR | Professor | Ph.D | CSE
+DR. POTHURAJU RAJA RAJESWARI | Professor | Ph.D | CSE
+DR. K V NARASIMHA RAO | Professor | Ph.D | CSE
+DR. ATLURI VANI | Professor | Ph.D | CSE
+DR. RACHAPUDI VENUBABU | Professor | Ph.D | CSE
+DR. RAJU ANITHA | Professor | Ph.D | CSE
+DR. PACHIPALA YELLAMMA | Professor | Ph.D | CSE
+DR. SHAIK SAGAR IMAMBI | Professor | Ph.D | CSE
+DR. JONNADULA SRINIVASA RAO | Professor | Ph.D | CSE
+DR. MOULANA MOHAMMED | Professor | Ph.D | CSE
+DR. PELLAKURI VIDYULLATHA | Professor | Ph.D | CSE
+DR. KOLLA BHANU PRAKASH | Professor | Ph.D | CSE
+DR. ENIREDDY VAMSIDHAR | Professor | Ph.D | CSE
+DR. TATAVARTHY SANTHI SRI | Professor | Ph.D | CSE
+DR. PRAVEEN TUMULURU | Professor | Ph.D | CSE
+DR. CHITRAPU VENKATA RAMANA MURTHY | Professor | Ph.D | CSE
+DR. PADMANABAN K | Professor | Ph.D | CSE
+DR. VELMURUGAN A K | Professor | Ph.D | CSE
+DR. PASUPULETI VENKATA CHALAPATHI | Professor | Ph.D | CSE
+DR. KUNDA VENKATA PRASAD | Professor | Ph.D | CSE
+DR. BURUGARI VIJAY KUMAR | Professor | Ph.D | CSE
+DR. NALLAGATLA RAGHAVENDRA SAI | Professor | Ph.D | CSE
+DR. MUNAGALA JOGENDRA KUMAR | Professor | Ph.D | CSE
+DR. P M ASHOK KUMAR | Professor | Ph.D | CSE
+DR. GOTTUMUKKALA P VARMA | Professor | Ph.D | CSE
+DR. VITHYA GANESAN | Professor | Ph.D | CSE
+DR. SHANKAR RAJENDRAN | Professor | Ph.D | CSE
+DR. SURYAKANTH V GANGASHETTY | Professor | Ph.D | CSE
+DR. P ITHAYA RANI | Professor | Ph.D | CSE
+DR. GOVIND D | Professor | Ph.D | CSE
+DR. BANDARUPALLI M RAO | Professor | Ph.D | CSE
+DR. THATI ANURADHA | Professor | Ph.D | CSE
+DR. KAILASAM SWATHI | Professor | Ph.D | CSE
+DR. SENTHIL ATHITHAN | Professor | Ph.D | CSE
+DR. VISWANATHAN | Professor | Ph.D | CSE
+DR. K B V BRAHMA RAO | Professor | Ph.D | CSE
+DR. T K RAMA KRISHNA RAO | Professor | Ph.D | CSE
+DR. YOGESH KUMAR SHARMA | Professor | Ph.D | CSE
+DR. N ALANGUDI BALAJI | Professor | Ph.D | CSE
+DR. V MURUGESH | Professor | Ph.D | CSE
+DR. ARPIT JAIN | Professor | Ph.D | CSE
+DR. LEENA ARYA | Professor | Ph.D | CSE
+DR. VIKRAM DARA | Professor | Ph.D | CSE
+DR. KHALIM AMJAD MEERJA | Professor | Ph.D | CSE
+DR. SMITHA CHOWDARY CH | Professor | Ph.D | CSE
+DR. VEERAMALLU BOBBA | Professor | Ph.D | CSE
+DR. V VISWANATH SHENOI | Professor | Ph.D | CSE
+DR. RAJENDRA KUMAR GANIYA | Professor | Ph.D | CSE
+DR. GANDRETY ANNAPURNA | Professor | Ph.D | CSE
+DR. M RAVI SANKAR | Professor | Ph.D | CSE
+DR. PENUBAKA LAKSHMAN KRISHNA KUMAR REDDY | Professor | Ph.D | CSE
+DR. KURRA RAJASEKHARARAO | Professor | Ph.D | CSE
+DR. VUYYURU KRISHNA REDDY | Professor | Ph.D | CSE
+DR. BURRAMUKKU TIRAPATHI REDDY | Professor | Ph.D | CSE
+DR. BULLI VEERABHADRAPRASAD NAMBURU | Professor | Ph.D | CSE
+DR. KONDA JAYARAMI REDDY | Professor | Ph.D | CSE
+DR. S SARAVANAN | Professor | Ph.D | CSE
+DR. VINNAKOTA S V PRABHAKAR | Professor | Ph.D | CSE
+DR. A SUDHIRBABU | Professor | Ph.D | CSE
+DR. DEEPAK KUMAR BARIK | Professor | Ph.D | CSE
+
+--- Associate Professors ---
+
+DR. RADHIKA RANI CHINTALA | Associate Professor | Ph.D | CSE
+DR. SRINIVASA RAO TALAGADADEEVI | Associate Professor | Ph.D | CSE
+DR. K. V. CHANDRA SEKHAR | Associate Professor | Ph.D | CSE
+DR. VENKATA VARA PRASAD PADYALA | Associate Professor | Ph.D | CSE
+DR. K. RUTH RAMYA | Associate Professor | Ph.D | CSE
+DR. KONERU SWAPNA | Associate Professor | Ph.D | CSE
+DR. M. VENKATESWARLU | Associate Professor | Ph.D | CSE
+DR. N. S. M. P. LATHA DEVI | Associate Professor | Ph.D | CSE
+DR. M. RAJA AMBETHKAR | Associate Professor | Ph.D | CSE
+DR. M. NAGESWARA RAO | Associate Professor | Ph.D | CSE
+DR. INTHIYAZ SYED | Associate Professor | Ph.D | CSE
+DR. BONDALAPU CHAITANYA KRISHNA | Associate Professor | Ph.D | CSE
+DR. FAZAL NOORBASHA | Associate Professor | Ph.D | CSE
+DR. VENKATESWARA RAO PEDDADA | Associate Professor | Ph.D | CSE
+DR. RAVI KUMAR TATA | Associate Professor | Ph.D | CSE
+DR. DUBBA NAGAMALLESWARI | Associate Professor | Ph.D | CSE
+DR. KOTAGIRI VISHNU DIVYA | Associate Professor | Ph.D | CSE
+DR. MYLAVARAPU SEETHARAMA PRASAD | Associate Professor | Ph.D | CSE
+DR. MUTYABOYINA LATHA | Associate Professor | Ph.D | CSE
+DR. VASIPALLI SUBBA REDDY | Associate Professor | Ph.D | CSE
+DR. CHEERLA SREEVARDHAN | Associate Professor | Ph.D | CSE
+DR. CHAKKA RAGHAVA PRASAD | Associate Professor | Ph.D | CSE
+DR. TAMMA ESWAR LAL | Associate Professor | Ph.D | CSE
+DR. GUNTURI SUNITA SUNDARI | Associate Professor | Ph.D | CSE
+DR. ANNA VENKATESWARA RAO | Associate Professor | Ph.D | CSE
+DR. ALAPARTHI VENKATESWARA RAO | Associate Professor | Ph.D | CSE
+DR. TIRUVEEDHULA SAJANA | Associate Professor | Ph.D | CSE
+DR. WURITI SRIDHAR | Associate Professor | Ph.D | CSE
+DR. CHITTA M. H. SAIBABA | Associate Professor | Ph.D | CSE
+DR. POPURI GOPI KRISHNA | Associate Professor | Ph.D | CSE
+DR. SHAIK MOHAMMED GOUSE | Associate Professor | Ph.D | CSE
+DR. MAHAMUDA SHAIK | Associate Professor | Ph.D | CSE
+DR. P. SRIVENKATA SRINIVASA SRIDHAR | Associate Professor | Ph.D | CSE
+DR. MANDHALA VENKATA NARESH | Associate Professor | Ph.D | CSE
+DR. GOGINENI KRISHNA CHAITANYA | Associate Professor | Ph.D | CSE
+DR. MAGULURI LAKSHMANA PHANEENDRA | Associate Professor | Ph.D | CSE
+DR. MODEPALLI KAVITHA | Associate Professor | Ph.D | CSE
+DR. YALAVARTHI USHA DEVI | Associate Professor | Ph.D | CSE
+DR. SWARNA ANJALIDEVI | Associate Professor | Ph.D | CSE
+DR. KINJIRAPU ASHESH | Associate Professor | Ph.D | CSE
+DR. KUCHIBHOTLA SWARNA | Associate Professor | Ph.D | CSE
+DR. VIPUL AGARWAL | Associate Professor | Ph.D | CSE
+DR. CH SRINIVAS PREETHAM REDDY | Associate Professor | Ph.D | CSE
+DR. ASWIN KUMER S V | Associate Professor | Ph.D | CSE
+DR. MOTHUKURI RADHA | Associate Professor | Ph.D | CSE
