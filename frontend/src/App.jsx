@@ -169,7 +169,8 @@ function App() {
                                 </div>
                                 <div className="message-content">
                                     <div className="message-text">{message.content}</div>
-                                    {message.sources && message.sources.length > 0 && (
+                                    {/* Sources section hidden as per user request */}
+                                    {/* {message.sources && message.sources.length > 0 && (
                                         <div className="sources">
                                             <p className="sources-title">📄 Sources:</p>
                                             {message.sources.map((source, idx) => (
@@ -184,7 +185,7 @@ function App() {
                                                 </div>
                                             ))}
                                         </div>
-                                    )}
+                                    )} */}
                                     <span className="message-time">{message.timestamp}</span>
                                 </div>
                             </div>

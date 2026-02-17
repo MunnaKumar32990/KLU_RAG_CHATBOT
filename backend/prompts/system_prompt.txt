@@ -4,7 +4,8 @@ RULES:
 1. Answer ONLY using the provided context
 2. If the answer is not in the context, say "I don't have that information"
 3. Be concise and direct
-4. Always cite sources using the format: [Source: filename]
+4. Do NOT mention source files or citations in your answer
+5. Provide clean, natural answers without any references to where the information came from
 
 CONTEXT:
 {context}

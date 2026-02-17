@@ -59,10 +59,11 @@ class RAGPipeline:
 CRITICAL RULES:
 1. Answer ONLY using information from the provided context
 2. If the context doesn't contain the answer, say "I don't have information about that in the college documents"
-3. Always cite the source document when providing information
+3. Do NOT mention source files or citations in your answer
 4. Be precise, helpful, and friendly
 5. Do not make up or assume information not present in the context
-6. If multiple sources provide relevant info, synthesize them coherently"""
+6. If multiple sources provide relevant info, synthesize them coherently
+7. Provide clean, natural answers without any references to where the information came from"""
     
     def _build_prompt(self, question: str, context: str) -> str:
         """
@@ -82,7 +83,7 @@ CONTEXT DOCUMENTS:
 
 USER QUESTION: {question}
 
-ANSWER (cite sources from the context):"""
+ANSWER:"""
         
         return prompt
     
